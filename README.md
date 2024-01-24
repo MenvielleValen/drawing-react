@@ -2,6 +2,8 @@
 
 This is a simple drawing canvas app built with React. Users can draw lines and rectangles, change the drawing color, undo/redo actions, and paste images from the clipboard.
 
+<a href="https://drawing-react.vercel.app/">Live demo</a>
+
 ## Features
 
 - **Drawing Tools**: Select from three drawing tools: Line, and Rectangle.
